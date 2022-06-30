@@ -1,4 +1,4 @@
-#My To Do List Web App
+#My To Do List App
 
 A beautiful and simple goal checklist app. 
 I'll be adding one more feature on the bottom-right tile.
